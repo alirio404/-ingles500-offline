@@ -1,0 +1,3 @@
+Ingles 500 (PWA offline). Sube TODA esta carpeta a un hosting HTTPS (Netlify Drop, Cloudflare Pages, GitHub Pages...).
+Abre el enlace en Chrome del movil -> menu -> "Instalar app". Despues funciona sin internet y el progreso se conserva.
+Para APK: pwabuilder.com -> pega tu URL -> Package for Android. Guarda la clave de firma que te entrega.
